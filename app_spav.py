@@ -45,7 +45,7 @@ def obtener_detalles_profundos(place_id, api_key):
 
 # === FRONT-END (INTERFAZ) ===
 
-st.title("🛰️ TRACKER SPAV PRO: Inteligencia Geográfica")
+st.title("🛰️ GEOLEAD ENGINE: Inteligencia Geográfica")
 st.sidebar.image("https://cdn-icons-png.flaticon.com/512/854/854878.png", width=100)
 st.sidebar.header("Configuración de Misión")
 
